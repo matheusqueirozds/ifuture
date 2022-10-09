@@ -2,7 +2,7 @@
   
 # Labefood
   
-🚀 Projeto desenvolvido em React JS, simulando um aplicativo de delivery, baseado no Ifood.
+🌮 Projeto desenvolvido em React JS, simulando um aplicativo de delivery, baseado no Ifood.
   
   <img src="https://user-images.githubusercontent.com/70871620/193394398-3df5a2ef-a12c-4aca-85b1-b5bcee5845d8.gif" width="300px">
   
