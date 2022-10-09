@@ -98,13 +98,13 @@ Com esse projeto, aprofundamos os conhecimentos adquiridos no React JS. Começam
 Clone o projeto via HTTPS
 
 ```bash
-  git clone https://github.com/future4code/Jemison-labe-food2.git
+  git clone https://github.com/matheusqueirozds/ifuture.git
 ```
 
 Entre no diretório do projeto
 
 ```bash
-  cd Jemison-labe-food2
+  cd ifuture
 ```
 
 Instale todas as dependências abaixo:
