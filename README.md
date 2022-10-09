@@ -11,7 +11,9 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
  
 [Clique aqui](https://ifuture.vercel.app) para acessar o deploy do projeto
-  
+
+<p> Apoie os meus estudos, adquirindo os produtos da minha loja, feita para programadores! <a href="https://montink.com/nobugnogain">Clique aqui</a> para conferir.</p>
+
 </div>
 
 ---
